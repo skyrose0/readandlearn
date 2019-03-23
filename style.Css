@@ -1,0 +1,37 @@
+h1{
+    color:aqua
+}
+heading{ 
+font-weight:bold}
+
+google-heading{
+    color:orange;
+}
+
+.google-style{
+    font-family:fantasy;
+    font-size: 10px
+}
+        
+#idtest {
+    color:aqua
+}
+
+
+#weekend {
+    color:red
+}
+
+
+.heading { 
+font-weight: bold}
+
+.blue { 
+color:blue
+}
+
+h1 { 
+    
+    border: 10px solid darkblue; border-radius: 12px;
+    padding: 20px 25px; 
+    margin: 20px 15px}
